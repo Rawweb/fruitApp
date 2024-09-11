@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Mango",
+        "category": "Drupe",
+        "image": "./images/mango.png"
+    },
+    {
+        "name": "Cucumber",
+        "category": "Pepo",
+        "image": "./images/cucumber.png"
+    },
+    {
+        "name": "Strawberries",
+        "category": "Berry",
+        "image": "./images/strawberries.png"
+    },
+    {
+        "name": "Guava",
+        "category": "Tropical",
+        "image": "./images/guava.png"
+    },
+    {
+        "name": "Cranberries",
+        "category": "Berry",
+        "image": "./images/cranberries.png"
+    },
+    {
+        "name": "Pumpkin",
+        "category": "Pepo",
+        "image": "./images/pumpkin.png"
+    },
+    {
+        "name": "Dragon Fruit",
+        "category": "Tropical",
+        "image": "./images/dragon_fruit.png"
+    },
+    {
+        "name": "Blueberries",
+        "category": "Berry",
+        "image": "./images/blueberries.png"
+    },
+    {
+        "name": "Zucchinis",
+        "category": "Pepo",
+        "image": "./images/zucchinis.png"
+    },
+    {
+        "name": "Nectarines",
+        "category": "Drupe",
+        "image": "./images/nectarines.png"
+    },
+    {
+        "name": "Lemon",
+        "category": "Citrus",
+        "image": "./images/lemon.png"
+    },
+    {
+        "name": "Jack Fruit",
+        "category": "Tropical",
+        "image": "./images/jack_fruit.png"
+    },
+    {
+        "name": "Grapefruit",
+        "category": "Citrus",
+        "image": "./images/grape_fruit.png"
+    },
+    {
+        "name": "Banana",
+        "category": "Tropical",
+        "image": "./images/banana.png"
+    },
+    {
+        "name": "Cantaloupes",
+        "category": "Pepo",
+        "image": "./images/cantaloupes.png"
+    },
+    {
+        "name": "Gooseberries",
+        "category": "Berry",
+        "image": "./images/gooseberries.png"
+    },
+    {
+        "name": "Avocado Pear",
+        "category": "Drupe",
+        "image": "./images/avocado_pear.png"
+    },
+    {
+        "name": "Pineapples",
+        "category": "Tropical",
+        "image": "./images/pineapples.png"
+    },
+    {
+        "name": "Oranges",
+        "category": "Citrus",
+        "image": "./images/oranges.png"
+    },
+    {
+        "name": "Raspberries",
+        "category": "Berry",
+        "image": "./images/raspberries.png"
+    },
+    {
+        "name": "Tangerine",
+        "category": "Citrus",
+        "image": "./images/tangerine.png"
+    },
+    {
+        "name": "Coconut",
+        "category": "Tropical",
+        "image": "./images/coconut.png"
+    },
+    {
+        "name": "Pawpaw",
+        "category": "Tropical",
+        "image": "./images/pawpaw.png"
+    },
+    {
+        "name": "Squash",
+        "category": "Pepo",
+        "image": "./images/squash.png"
+    },
+    {
+        "name": "Lychees",
+        "category": "Drupe",
+        "image": "./images/lychees.png"
+    },
+    {
+        "name": "Plum",
+        "category": "Drupe",
+        "image": "./images/plum.png"
+    },
+    {
+        "name": "Watermelon",
+        "category": "Pepo",
+        "image": "./images/watermelon.png"
+    },
+    {
+        "name": "Mulberries",
+        "category": "Berry",
+        "image": "./images/mulberries.png"
+    },
+    {
+        "name": "Apricots",
+        "category": "Drupe",
+        "image": "./images/apricots.png"
+    },
+    {
+        "name": "Lime",
+        "category": "Citrus",
+        "image": "./images/lime.png"
+    }
+]

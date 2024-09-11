@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0"
+        />
+        <link
+            href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+            rel="stylesheet"
+        />
+        <link
+            rel="icon"
+            type="image/x-icon"
+            href="images/fruit.png"
+        />
+        <link
+            rel="stylesheet"
+            href="styles.css"
+        />
+        <title>Fruits Website</title>
+    </head>
+    <body>
+        <header class="hero">
+            <div
+                id="nav-bar"
+                class="container"
+            >
+                <div class="logo">
+                    <i class="bx bx-menu"></i>
+                    <a href="index.html">Fruits</a>
+                </div>
+                <div id="nav-item">
+                    <a href="#category1">Berry</a>
+                    <a href="#category2">Drupe</a>
+                    <a href="#category3">Pepo</a>
+                    <a href="#category4">Tropical</a>
+                    <a href="#category5">Citrus</a>
+                </div>
+            </div>
+            <form id="search-box">
+                <input
+                    type="text"
+                    placeholder="Search for fruits..."
+                    required
+                />
+                <button
+                    type="submit"
+                    id="submit-btn"
+                >
+                    <i class="bx bx-search"></i>
+                    <span>Search</span>
+                </button>
+            </form>
+        </header>
+        <section
+            id="fruits-container"
+            class="container"
+        >
+            <div id="loader"></div>
+            <!-- Ist Column -->
+            <div id="fruits">
+                <!-- <div id="fruit">
+                    <img
+                        src="./images/apricots.png"
+                        alt=""
+                    />
+                    <h2 id="fruit_name">Apricots</h2>
+                </div>
+                <div id="fruit">
+                    <img
+                        src="./images/mango.png"
+                        alt=""
+                    />
+                    <h2 id="fruit_name">Mango</h2>
+                </div>
+                <div id="fruit">
+                    <img
+                        src="./images/banana.png"
+                        alt=""
+                    />
+                    <h2 id="fruit_name">Banana</h2>
+                </div>
+                <div id="fruit">
+                    <img
+                        src="./images/grape_fruit.png"
+                        alt=""
+                    />
+                    <h2 id="fruit_name">Grape Fruit</h2>
+                </div>
+                <div id="fruit">
+                    <img
+                        src="./images/coconut.png"
+                        alt=""
+                    />
+                    <h2 id="fruit_name">Coconut</h2>
+                </div>
+                <div id="fruit">
+                    <img
+                        src="./images/coconut.png"
+                        alt=""
+                    />
+                    <h2 id="fruit_name">Coconut</h2>
+                </div>
+                <div id="fruit">
+                    <img
+                        src="./images/coconut.png"
+                        alt=""
+                    />
+                    <h2 id="fruit_name">Coconut</h2>
+                </div>
+                <div id="fruit">
+                    <img
+                        src="./images/coconut.png"
+                        alt=""
+                    />
+                    <h2 id="fruit_name">Coconut</h2>
+                </div> -->
+            </div>
+            <div id="no-results">
+                No name matches your search result, fruits not found!!.
+            </div>
+        </section>
+
+        <script src="./fruit.js"></script>
+    </body>
+</html>
